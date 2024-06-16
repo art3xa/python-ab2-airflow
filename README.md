@@ -5,6 +5,7 @@
 
 1. [ETL & Airflow][etl]
 2. [ДЗ][homework]
+3. [Отчёт][homework_report]
 
 ---
 
@@ -13,3 +14,5 @@
 [etl]: assets/materials/etl.md "ETL"
 
 [homework]: assets/materials/homework.md "homework"
+
+[homework_report]: assets/materials/homework_report.md "homework_report"
